@@ -2,7 +2,7 @@
 
 Integrantes:
 
-Mariela Julissa Ventura Iraheta - VI241412 
+#Mariela Julissa Ventura Iraheta - VI241412 
 María José Rivera Flores - RF231136 
 Alejandra Marisol Hernández Monterrosa - HM240103 
 Diego Antonio Flores Herrera - FH240388 
